@@ -118,6 +118,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/dcbCIn"><img src="https://avatars.githubusercontent.com/u/48742131?v=4?s=100" width="100px;" alt="Daniel Brandão"/><br /><sub><b>Daniel Brandão</b></sub></a><br /><a href="https://github.com/trading-album-stickers/trading-album-stickers-front/commits?author=dcbCIn" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/ABHISHEK-565"><img src="https://avatars.githubusercontent.com/u/80988197?v=4?s=100" width="100px;" alt="Abhishek singh lodhi"/><br /><sub><b>Abhishek singh lodhi</b></sub></a><br /><a href="https://github.com/trading-album-stickers/trading-album-stickers-front/commits?author=ABHISHEK-565" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/imgourav"><img src="https://avatars.githubusercontent.com/u/72176692?v=4?s=100" width="100px;" alt="Gourav Sharma"/><br /><sub><b>Gourav Sharma</b></sub></a><br /><a href="https://github.com/trading-album-stickers/trading-album-stickers-front/commits?author=imgourav" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/william-monroy"><img src="https://avatars.githubusercontent.com/u/58092741?v=4?s=100" width="100px;" alt="William Monroy"/><br /><sub><b>William Monroy</b></sub></a><br /><a href="https://github.com/trading-album-stickers/trading-album-stickers-front/commits?author=william-monroy" title="Design">🎨</a></td>
     </tr>
   </tbody>
 </table>
