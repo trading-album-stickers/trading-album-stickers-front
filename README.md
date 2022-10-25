@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -59,6 +59,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/ABHISHEK-565"><img src="https://avatars.githubusercontent.com/u/80988197?v=4?s=100" width="100px;" alt="Abhishek singh lodhi"/><br /><sub><b>Abhishek singh lodhi</b></sub></a><br /><a href="https://github.com/trading-album-stickers/trading-album-stickers-front/commits?author=ABHISHEK-565" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/dcbCIn"><img src="https://avatars.githubusercontent.com/u/48742131?v=4?s=100" width="100px;" alt="Daniel Brandão"/><br /><sub><b>Daniel Brandão</b></sub></a><br /><a href="https://github.com/trading-album-stickers/trading-album-stickers-front/commits?author=dcbCIn" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
