@@ -14,6 +14,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "dcb",
+      "name": "Bogdan Dumitru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/777697?v=4",
+      "profile": "https://github.com/dcb",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
