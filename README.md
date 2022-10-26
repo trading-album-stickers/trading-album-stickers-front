@@ -1,10 +1,28 @@
-# Sticker Collection
-
-# Getting Started with Create React App
+# Sticker Collection: Trading Album Stickers
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+## Description 📰
+
+Trading Album Stickers is a platform to help people complete any sticker album that they have through trading or selling album stickers.
+
+Users are able to register stickers that they have and how many of--- each, and based on that that site inform the stickers that they need and connects them to other people who may have the missing stickers!
+
+Currently, the scope of this project is being determined by contributors! Searching for missing stickers could be restricted to a city name or region or potentially even a radius around your location. Join the Trading Album Stickers project to help us shape what it will become! Spread the word!
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+
+To contribute, please review the [CONTRIBUTING.md](./CONTRIBUTING.md) and review the issues list for issues you can help with.
+
+---
+
+## Getting Started 🏗️
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -45,67 +63,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-### Steps for contribution
-
-#### `STEP 1` :  Fork [this](https://github.com/trading-album-stickers/trading-album-stickers-front.git) repository.
-#### `STEP 2` :  Clone your forked copy of the project.
-```
-git clone https://github.com/<your_username>/trading-album-stickers-front.git
-```
-#### `STEP 3` : Navigate to the project directory .
-```
-cd trading-album-stickers-front
-```
-#### `STEP 4` : Add a reference (remote) to the original repository.
-```
-git remote add upstream https://github.com/trading-album-stickers/trading-album-stickers-front.git
-```
-#### `STEP 5` : Check the remotes for this repository.
-```
-git remote -v
-```
-#### `STEP 6` : Always take a pull from the upstream repository to your master branch to keep it at par with the main project (updated repository).
-```
-git pull upstream master
-```
-#### `STEP 7` : Create a new branch.
-```
-git checkout -b <your_branch_name>
-```
-#### `STEP 8` : Perform your desired changes to the code base.
-Open any code editor and **`run npm install`** and then **`npm start`**.
-#### `STEP 9` : Track your changes .
-```
-git add . 
-```
-#### `STEP 10` : Commit your changes .
-```
-git commit -m "Relevant message"
-```
-#### `STEP 11` : Push the committed changes in your feature branch to your remote repo.
-```
-git push -u origin <your_branch_name>
-```
-#### `STEP 12` : To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repository you are supposed to make a PR to.
-#### `STEP 13` : Add appropriate title and description to your pull request explaining your changes and efforts done.
-#### `STEP 14` : Click on `Create Pull Request`.
-
-#### Voila! You have made a PR. Sit back patiently and relax while your PR is reviewed
----
-
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+---
 
 ## Contributors ✨
 
