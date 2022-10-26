@@ -32,6 +32,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "william-monroy",
+      "name": "William Frank Monroy Mamani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58092741?v=4",
+      "profile": "https://github.com/william-monroy",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
