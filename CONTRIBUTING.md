@@ -1,4 +1,4 @@
-# Welcome to Trading Album Stickers contributing guide
+# Welcome to Sticker Collection contributing guide
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -30,14 +30,6 @@ Thank you for creating them!
 ## Solve an issue
 
 Please, feel free to look the issues page and help with anything!
-
-#### STEPS TO CONTRIBUTE IN THIS REPOSITORY
-
-1. Fork this repo
-2. Create a new folder/repository for your projects
-3. Add useful content for the problem stated
-4. Make pull request to develop branch
-5. Now,we will review the pull request and merge it, if finds it good.(After merging you will be notified)
 
 ## Contributing
 
