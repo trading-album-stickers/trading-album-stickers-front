@@ -1,14 +1,16 @@
 # Sticker Collection: Trading Album Stickers
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Description 📰
 
 Trading Album Stickers is a platform to help people complete any sticker album that they have through trading or selling album stickers.
 
-Users are able to register stickers that they have and how many of--- each, and based on that that site inform the stickers that they need and connects them to other people who may have the missing stickers!
+Users are able to register stickers that they have and how many of each, and based on that, the site inform the stickers that they need and connects them to other people who may have the missing stickers!
 
 Currently, the scope of this project is being determined by contributors! Searching for missing stickers could be restricted to a city name or region or potentially even a radius around your location. Join the Trading Album Stickers project to help us shape what it will become! Spread the word!
 
