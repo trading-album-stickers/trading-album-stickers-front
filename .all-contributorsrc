@@ -12,7 +12,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/48742131?v=4",
       "profile": "https://github.com/dcbCIn",
       "contributions": [
-        "doc"
+        "doc",
+        "code"
       ]
     },
     {
@@ -49,6 +50,15 @@
       "profile": "https://unruffled-goodall-dd424e.netlify.app/",
       "contributions": [
         "doc"
+      ]
+    },
+    {
+      "login": "dalenguyen",
+      "name": "Dale Nguyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14116156?v=4",
+      "profile": "http://dalenguyen.me",
+      "contributions": [
+        "code"
       ]
     }
   ],
