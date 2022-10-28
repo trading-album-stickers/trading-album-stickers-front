@@ -1,7 +1,7 @@
 # Sticker Collection: Trading Album Stickers
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Description 📰
@@ -74,6 +74,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/imgourav"><img src="https://avatars.githubusercontent.com/u/72176692?v=4?s=100" width="100px;" alt="Gourav Sharma"/><br /><sub><b>Gourav Sharma</b></sub></a><br /><a href="https://github.com/trading-album-stickers/trading-album-stickers-front/commits?author=imgourav" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/william-monroy"><img src="https://avatars.githubusercontent.com/u/58092741?v=4?s=100" width="100px;" alt="William Frank Monroy Mamani"/><br /><sub><b>William Frank Monroy Mamani</b></sub></a><br /><a href="#design-william-monroy" title="Design">🎨</a></td>
       <td align="center"><a href="https://unruffled-goodall-dd424e.netlify.app/"><img src="https://avatars.githubusercontent.com/u/77961530?v=4?s=100" width="100px;" alt="Pratik Haldankar"/><br /><sub><b>Pratik Haldankar</b></sub></a><br /><a href="https://github.com/trading-album-stickers/trading-album-stickers-front/commits?author=pratik2315" title="Documentation">📖</a></td>
+      <td align="center"><a href="http://dalenguyen.me"><img src="https://avatars.githubusercontent.com/u/14116156?v=4?s=100" width="100px;" alt="Dale Nguyen"/><br /><sub><b>Dale Nguyen</b></sub></a><br /><a href="https://github.com/trading-album-stickers/trading-album-stickers-front/commits?author=dalenguyen" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
