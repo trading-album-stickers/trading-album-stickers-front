@@ -60,6 +60,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "yuricdb",
+      "name": "Yuri Barros",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50000444?v=4",
+      "profile": "https://github.com/yuricdb",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
