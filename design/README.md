@@ -16,4 +16,5 @@ The link to the figma prototype contains the project with pages:
 - [ ] page to list stickers from a specific user
 - [ ] page to search for missing stickers and match with other people that have duplicates
 
+
 [Figma Prototype] https://www.figma.com/file/DIzzJFRaUjm9olbo3zNEzl/Untitled?node-id=0%3A1
