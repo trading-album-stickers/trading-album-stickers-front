@@ -11,12 +11,9 @@ The color palette is defined in the `colors.js` file. It is a simple object with
 The link to the figma prototype contains the project with pages:
 
 - [x] landing page 
-- [ ] page for users to register their stickers
+- [x] page for users to register their stickers
 - [ ] page for registering needs/offerings
 - [ ] page to list stickers from a specific user
 - [ ] page to search for missing stickers and match with other people that have duplicates
 
 [Figma Prototype] https://www.figma.com/file/DIzzJFRaUjm9olbo3zNEzl/Untitled?node-id=0%3A1
-
-
-
