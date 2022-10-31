@@ -1,7 +1,7 @@
 # Sticker Collection: Trading Album Stickers
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Description 📰
@@ -76,6 +76,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://unruffled-goodall-dd424e.netlify.app/"><img src="https://avatars.githubusercontent.com/u/77961530?v=4?s=100" width="100px;" alt="Pratik Haldankar"/><br /><sub><b>Pratik Haldankar</b></sub></a><br /><a href="https://github.com/trading-album-stickers/trading-album-stickers-front/commits?author=pratik2315" title="Documentation">📖</a></td>
       <td align="center"><a href="http://dalenguyen.me"><img src="https://avatars.githubusercontent.com/u/14116156?v=4?s=100" width="100px;" alt="Dale Nguyen"/><br /><sub><b>Dale Nguyen</b></sub></a><br /><a href="https://github.com/trading-album-stickers/trading-album-stickers-front/commits?author=dalenguyen" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/yuricdb"><img src="https://avatars.githubusercontent.com/u/50000444?v=4?s=100" width="100px;" alt="Yuri Barros"/><br /><sub><b>Yuri Barros</b></sub></a><br /><a href="#design-yuricdb" title="Design">🎨</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/sowmiya-venkatesan"><img src="https://avatars.githubusercontent.com/u/74345706?v=4?s=100" width="100px;" alt="Sowmiya V"/><br /><sub><b>Sowmiya V</b></sub></a><br /><a href="#design-sowmiya-venkatesan" title="Design">🎨</a></td>
     </tr>
   </tbody>
 </table>
