@@ -1,0 +1,93 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+// Define your Prisma schema
+model Album {
+  id              Int      @id @default(autoincrement())
+  name            String
+  collection      String
+  publicationYear Int
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @default(now())
+
+  // Define indexes
+  @@unique([name], name: "album_name")
+  @@unique([collection], name: "album_collection")
+}
+
+model StickerType {
+  id          Int      @id @default(autoincrement())
+  albumId     Int
+  name        String
+  description String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @default(now())
+
+  @@index([albumId], name: "sticker_type_album_id")
+}
+
+model Sticker {
+  id         Int      @id @default(autoincrement())
+  albumId    Int
+  typeId     Int
+  code       String
+  group      String
+  page       Int
+  type       String  @map("type")
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @default(now())
+
+  // Define indexes
+  @@unique([code], name: "sticker_code")
+  @@index([group], name: "sticker_group")
+}
+
+model User {
+  id          Int      @id @default(autoincrement())
+  fullName    String
+  email       String
+  contactInfo String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @default(now())
+}
+
+model UserSticker {
+  id                   Int     @id @default(autoincrement())
+  userId               Int
+  albumId              Int
+  stickerId            Int
+  quantity             Int
+  availableForTrading  Int
+  availableForSelling  Int
+  createdAt            DateTime @default(now())
+  updatedAt            DateTime @default(now())
+
+  // Define indexes
+  @@index([userId, albumId, stickerId], name: "user_stickers_user_album_sticker")
+}
+
+model TradingMatch {
+  id           Int           @id @default(autoincrement())
+  requesterId  Int
+  askedSticker Int
+  status       TradingStatus
+  createdAt    DateTime      @default(now())
+  updatedAt    DateTime      @default(now())
+
+}
+
+enum TradingStatus {
+  requested
+  accepted
+  declined
+  withdraw
+}
